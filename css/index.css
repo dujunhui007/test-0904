@@ -807,7 +807,7 @@ a, button, input, optgroup, select, textarea {
 .section6 .downloadLeft a, .section6 .downloadRight a {
     font: normal 20px myFontDemiBold;
     color: #333;
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 
 .section6 .downloadLeft i, .section6 .downloadRight i {
@@ -914,6 +914,8 @@ a, button, input, optgroup, select, textarea {
 .section6 .downloadLeft ul li.downloadMd i, .section6 .downloadRight ul li.downloadMd i {
     display: inline-block;
 }
+
+
 
 .section6 .downloadMore {
     width: 100%;

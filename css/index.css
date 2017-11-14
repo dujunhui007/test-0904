@@ -915,6 +915,17 @@ a, button, input, optgroup, select, textarea {
     display: inline-block;
 }
 
+.section6 .downloadLeft ul li .downloadIcon,.section6 .downloadRight ul li .downloadIcon{
+    display: inline-block;
+    width: 18px;
+    height: 20px;
+    background: url(../images/download.png) no-repeat center center;
+    background-size: cover;
+    margin-left: 5px;
+    vertical-align: text-top;
+}
+
+
 
 
 .section6 .downloadMore {
